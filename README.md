@@ -1,4 +1,4 @@
-# Stone-Paper-Scissor-Game-
+# STONE PAPER SCISSOR GAME
 
 I created a very simple game, known as Stone Paper Scissors, exactly the one that we used to play in our childhood. The game is made with the help of basic HTML, CSS and JAVASCRIPT. 
 
